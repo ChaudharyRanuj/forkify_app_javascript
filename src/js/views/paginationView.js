@@ -1,6 +1,6 @@
 import View from './view.js';
 import icons from '../../img/icons.svg'; // Parcel 1
-
+// paginnation view
 class paginationView extends View {
   _parentElement = document.querySelector('.pagination');
 
